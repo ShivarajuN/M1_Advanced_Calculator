@@ -25,7 +25,7 @@ int main()
                 {
                 case 1:
                       a:
-                        system("clear");
+                        //system("clear");
                         displaySimple();
                         if(flag1==1)
                                 printf("\n\tEnter your chioce for operation: ");
