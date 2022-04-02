@@ -55,7 +55,7 @@ run: all
 
 # Build and run of Unit test
 
-build_test:$(SRC) $(BUILD)
+build_test:$(BUILD)
 	gcc $(TEST_SRC) $(INC) $(INCLUDE_LIBS) -o $(call FixPath,$(TEST_OUTPUT).$(EXEC)) -lm
 
 test: build_test
