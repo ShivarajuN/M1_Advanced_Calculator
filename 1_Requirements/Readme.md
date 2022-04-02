@@ -51,7 +51,7 @@ A user who is working on a laptop or a desktop who would be working on normal ca
 ## High Level Requirements: 
 | ID | Description | Category | Status | 
 | ----- | ----- | ------- | ---------|
-| HR01  |User shall be able to specify the ||Technical| IMPLEMENTED |
+| HR01  |User shall be able to specify the values ||Technical| IMPLEMENTED |
 | HR02 | additon,substraction,multipliction and division of both normal and complex numbers|Technical| IMPLEMENTED |
 | HR03 | User shall be able to specify the size of the matrix |Technical| IMPLEMENTED |
 | HR04| User shall be able to add the matrices| Techincal | IMPLEMENTED | 
@@ -63,7 +63,7 @@ A user who is working on a laptop or a desktop who would be working on normal ca
 | ID | Description | HLR ID | Status (Implemented/Future) |
 | ------ | --------- | ------ | ----- |
 |LR01| Implimentaion of menu Implimentaion of menu for each mode of operation| | IMPLEMENTED |
-|LR02| | Implimentaion of function for each operation|IMPLEMENTED |
+|LR02|  Implimentaion of function for each operation| |IMPLEMENTED |
 | LR03 | (1). User must specify the size of the matrix.                                                    (2). The size specified is the dimensions of the square matrix | HR01 |  IMPLEMENTED  |
 | LR04 | Addition of two matrices can be done (1). Both the matrices need to be of same size(2). The size entered in the begining is same for both the matrices | HR04 |  |Technical| IMPLEMENTED |
 | LR05 | Subtraction of two matrices is implemented in the same manner as addition| HR05 | IMPLEMENTED |
