@@ -147,7 +147,7 @@ int main()
                                         printf("\n\tEnter your second number: \n");
                                         printf("\n real and imginary part seperated with space : ");
                                         scanf("%f %f",&c2.real,&c2.img);
-                                        result=complex_difference(c1,c2);
+                                        result=complex_divide(c1,c2);
                                         printf("\n\tResult : %f+i%f \n",result.real,result.img); 
                                         
                                         
