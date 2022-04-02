@@ -6,7 +6,7 @@
 
 Build | Code Quality | Unity | [Git Inspector](using github.io option)
 ------|----------|-------|--------------
-[![C/C++ CI - Build Status](https://github.com/AkulaPranathi1/stepin_student-record-system/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/AkulaPranathi1/stepin_student-record-system/actions/workflows/c-cpp.yml)|[![Code Quality - Static Code - Cppcheck](https://github.com/AkulaPranathi1/stepin_student-record-system/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/AkulaPranathi1/stepin_student-record-system/actions/workflows/cppcheck.yml)[![CodeQuality Dynamic Code Analysis Valgrind](https://github.com/AkulaPranathi1/stepin_student-record-system/actions/workflows/CodeQuality_Dynamic.yml/badge.svg)](https://github.com/AkulaPranathi1/stepin_student-record-system/actions/workflows/CodeQuality_Dynamic.yml)|[![Unit Testing - Unity](https://github.com/AkulaPranathi1/stepin_student-record-system/actions/workflows/unity.yml/badge.svg)](https://github.com/AkulaPranathi1/stepin_student-record-system/actions/workflows/unity.yml)|[![Contribution Check - Git Inspector](https://github.com/AkulaPranathi1/stepin_student-record-system/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/AkulaPranathi1/stepin_student-record-system/actions/workflows/gitinspector.yml)
+[![Build CI for C project](https://github.com/ShivarajuN/M1_Advanced_Calculator/actions/workflows/Advanced_calculator.yml/badge.svg)](https://github.com/ShivarajuN/M1_Advanced_Calculator/actions/workflows/Advanced_calculator.yml)|
 
 ## Folder Structure
 Folder             | Description
