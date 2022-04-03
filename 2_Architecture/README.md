@@ -1,4 +1,5 @@
 # Architecture of project
+![1](https://github.com/ShivarajuN/M1_Advanced_Calculator/blob/main/2_Architecture/1.PNG)
 
 ## High level design
 ![1](https://github.com/ShivarajuN/M1_Advanced_Calculator/blob/main/2_Architecture/High_level_design.png)
